@@ -1,0 +1,18 @@
+td input{
+    padding: 10px;
+    border: 1px 1px 1px 1px;
+    border-color: black;
+}
+
+.LightGray {
+background: lightgray;
+font-size: 25px;
+padding: 10px;
+text-align: center;
+}
+.DarkGray {
+    background: gray;
+    font-size: 25px;
+    padding: 10px;
+    text-align: center;
+    }
